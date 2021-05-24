@@ -1,0 +1,11 @@
+.rightBtn {
+    float: right;
+    text-align: end;
+}
+.item-img img{
+	padding-bottom:5px;
+	min-width:65px;
+	max-width:65px;
+        min-height: 35px;
+        max-height: 35px;
+}

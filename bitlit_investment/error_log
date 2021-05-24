@@ -1,0 +1,11 @@
+[24-May-2018 12:25:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login::RandomStringTokan() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/controllers/Login.php on line 754
+[24-May-2018 12:26:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login::RandomStringTokan() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/controllers/Login.php on line 754
+[24-May-2018 12:26:03 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login::RandomStringTokan() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/controllers/Login.php on line 754
+[24-May-2018 12:26:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login::RandomStringTokan() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/controllers/Login.php on line 754
+[24-May-2018 12:36:47 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login_model::updatePassword() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/models/Login_model.php on line 31
+[24-May-2018 12:37:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login_model::updatePassword() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/models/Login_model.php on line 31
+[24-May-2018 12:40:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login::RandomStringTokan() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/controllers/Login.php on line 774
+[24-May-2018 12:40:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login::RandomStringTokan() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/controllers/Login.php on line 774
+[24-May-2018 12:42:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login::RandomStringTokan() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/controllers/Login.php on line 774
+[24-May-2018 12:46:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Login::RandomStringTokan() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/controllers/Login.php on line 774
+[06-Jun-2018 17:45:09 Asia/Kolkata] PHP Fatal error:  Cannot redeclare User_model::getBinaryDataRight() in /home/bitlwyhd/bitlitflow.in/bitlit_investment/application/models/User_model.php on line 808
