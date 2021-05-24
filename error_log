@@ -1,0 +1,53 @@
+[30-Apr-2018 08:21:28 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:28 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:28 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:28 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:28 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:37 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:37 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:37 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:37 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:37 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/bitlwyhd/bitlitflow.com/index.php on line 7
+[30-Apr-2018 08:21:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bitlwyhd/bitlitflow.com/index.php on line 7
+[30-Apr-2018 08:21:38 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:38 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:38 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:38 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:21:38 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:41 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:41 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:41 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:41 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:41 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:49 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:49 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:49 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:49 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:49 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:22:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/bitlwyhd/bitlitflow.com/index.php on line 7
+[30-Apr-2018 08:22:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bitlwyhd/bitlitflow.com/index.php on line 7
+[30-Apr-2018 08:24:02 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:02 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:02 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:02 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:02 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:02 America/New_York] PHP Notice:  Undefined variable: conn in /home/bitlwyhd/bitlitflow.com/index.php on line 8
+[30-Apr-2018 08:24:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bitlwyhd/bitlitflow.com/index.php on line 8
+[30-Apr-2018 08:24:49 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:49 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:49 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:49 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:49 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:24:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/bitlwyhd/bitlitflow.com/index.php on line 8
+[30-Apr-2018 08:24:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bitlwyhd/bitlitflow.com/index.php on line 8
+[30-Apr-2018 08:25:42 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:25:42 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:25:42 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:25:42 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:25:42 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:26:37 America/New_York] PHP Notice:  Use of undefined constant connection - assumed 'connection' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:26:37 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:26:37 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:26:37 America/New_York] PHP Warning:  include(connectionphp): failed to open stream: No such file or directory in /home/bitlwyhd/bitlitflow.com/index.php on line 2
+[30-Apr-2018 08:26:37 America/New_York] PHP Warning:  include(): Failed opening 'connectionphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bitlwyhd/bitlitflow.com/index.php on line 2
